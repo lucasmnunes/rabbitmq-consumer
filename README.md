@@ -1,2 +1,2 @@
 # rabbitmq-consumer
-A service that consumes messages from a RabbitMQ server
+A client service that consumes messages from a RabbitMQ server.
